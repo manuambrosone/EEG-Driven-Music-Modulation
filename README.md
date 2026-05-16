@@ -1,5 +1,6 @@
 # EEG-Driven-Music-Modulation
 A neuroscience-art project in which EEG activity recorded during music listening dynamically modulates the mix of the same song inside Ableton Live.
+Listen to the original and modulated song on Soundcloud: https://soundcloud.com/manuelmbrosone/sets/eeg-drive-music-modulation
 ---
 
 ## Overview
